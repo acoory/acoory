@@ -5,7 +5,7 @@
 ![profile count](https://img.shields.io/github/followers/acoory.svg?style=social&label=Follow&maxAge=2592000)
 
 ## 👨🏾‍💻 About Me
-Architect & Developer | Currently growing at Digital Paca
+Architect & Developer 
 
 ## 🚀 Professional Projects
 - <a href="https://maritima.fr" target="_blank">Maritima</a>
