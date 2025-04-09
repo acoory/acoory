@@ -8,6 +8,7 @@
 Architect & Developer 
 
 ## 🚀 Professional Projects
+- <a href="https://kaydidicoiffure.fr" target="_blank">Kaydidi</a>
 - <a href="https://maritima.fr" target="_blank">Maritima</a>
 - <a href="https://apps.apple.com/fr/app/corsica-ferries/id1072157006" target="_blank">Corsica Ferries</a>
 - We'Pizz
