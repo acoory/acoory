@@ -28,11 +28,16 @@ I love working with <strong>JavaScript</strong> and <strong>TypeScript</strong>,
 </div>
 
 
-## Professional Projects
-- <a href="https://kaydidicoiffure.fr" target="_blank">Kaydidi</a>
-- <a href="https://maritima.fr" target="_blank">Maritima</a>
-- <a href="https://apps.apple.com/fr/app/corsica-ferries/id1072157006" target="_blank">Corsica Ferries</a>
-- <a href="https://pickerr.io" target="_blank">We'Pizz | Pickerr</a>
+## 🚀 Professional Projects
+
+| Project | Description |
+|---------|-------------|
+| [**Kaydidi**](https://kaydidicoiffure.fr) | Custom solution for appointment management |
+| [**Maritima**](https://maritima.fr) | Local media based in the Bouches-du-Rhône region |
+| [**Corsica Ferries**](https://apps.apple.com/fr/app/corsica-ferries/id1072157006) | Maritime transport company |
+| [**We'Pizz \| Pickerr**](https://pickerr.io) | Multi-store e-commerce platform |
+| [**Daylii**](https://daylii.fr) | SaaS booking platform for service providers |
+
 
 ### 🛠️ Tech Stack
 <table>
