@@ -23,9 +23,9 @@ I love working with <strong>JavaScript</strong> and <strong>TypeScript</strong>,
 
 ---
 
-## 🚀 Actually learning
+## 🧠 Actually learning
 <a href="https://www.better-auth.com/">BetterAuth</a> for secure and reliable authentication in your applications.  
-<a href="https://dokploy.com/fr">Dokploy</a> is a solution for CI/CD, helping automate builds, tests, and deployments.
+<a href="https://dokploy.com/fr">Dokploy</a> is a solution for CI/CD, helping automate builds, tests, and deployments with Github Action.
 
 
 ## 🚀 Professional Projects
